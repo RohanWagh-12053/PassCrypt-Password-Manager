@@ -2,7 +2,7 @@
 
 A **secure and responsive** password manager built using **React and Tailwind CSS**, allowing users to store, edit, delete, and copy their credentials with ease.
 
-![Password Manager Preview](image)
+![Password Manager Preview](gifs/preview.gif)
 
 ## 🚀 Features  
 ✅ **Add, Edit, Update, and Delete** website credentials  
