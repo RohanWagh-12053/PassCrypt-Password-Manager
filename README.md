@@ -4,6 +4,7 @@ A **secure and responsive** password manager built using **React and Tailwind CS
 
 ![Password Manager Preview](gifs/preview.gif)
 
+
 ## 🚀 Features  
 ✅ **Add, Edit, Update, and Delete** website credentials  
 ✅ **Copy username and password** with a single click  
@@ -11,24 +12,31 @@ A **secure and responsive** password manager built using **React and Tailwind CS
 ✅ **Fully Responsive** – Works seamlessly across all devices  
 ✅ **Modern UI** – Clean and intuitive design for ease of use  
 
+
 ## 🛠️ Tech Stack  
-- **Frontend:** React, Tailwind CSS  
-- **State Management:** useState, useEffect  
-- **Storage:** LocalStorage  
+- **Frontend :** React, Tailwind CSS  
+- **State Management :** useState, useEffect  
+- **Storage :** LocalStorage  
+
 
 ## 🎥 Live Demo  
 
 ### 1️⃣ Responsiveness  
 ![Responsive View](gifs/responsiveCheck.gif)  
 
+
 ### 2️⃣ Adding & Managing Credentials  
 ![Manage Credentials](gifs/addPass.gif)  
+
 
 ### 3️⃣ Copy & Delete Functionality  
 ![Copy & Delete](gifs/deleteCopy.gif) 
 
+
 ### 4️⃣ Editing Credentials  
 ![Edit Credentials](gifs/edit.gif)  
+
+
 
 ## 🌍 Hosted App  
 🔗 **Live App:** [Click Here to Open](https://67e01fc3c32c9d4c10c48d8d--poetic-snickerdoodle-1d3bb5.netlify.app/)  
@@ -36,6 +44,7 @@ A **secure and responsive** password manager built using **React and Tailwind CS
 
 ## 🛠️ Installation & Setup  
 To run this project locally, follow these steps:  
+
 
 ### Clone the repository
 ```sh
