@@ -1,4 +1,4 @@
-# 🔐 PassOP - Password Manager
+# 🔐 PassCrypt - Password Manager
 
 A **secure and responsive** password manager built using **React and Tailwind CSS**, allowing users to store, edit, delete, and copy their credentials with ease.
 
